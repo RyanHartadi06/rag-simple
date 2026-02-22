@@ -1,0 +1,3 @@
+# Data Privacy dan GDPR - Dasar
+
+GDPR mengatur pemrosesan data pribadi warga UE. Prinsip: lawful, fair, transparent; purpose limitation; data minimization; accuracy; storage limitation; integrity and confidentiality; accountability. Dasar hukum: consent, contract, legal obligation, legitimate interest, dll. Hak subjek: akses, rectification, erasure, portability, object, restrict. Data breach: notifikasi ke supervisory authority (72 jam) dan ke data subject jika risiko tinggi. Privacy by design dan by default. DPO untuk organisasi tertentu. Sanksi: denda hingga 4% turnover global. Ringkas: lawful basis, hak subjek, breach notification, privacy by design, compliance.
